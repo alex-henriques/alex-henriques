@@ -19,4 +19,4 @@ Docker · Docker Compose · nginx · Linux · Git · Python · C · C++
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/alexhenr)
+[LinkedIn](https://www.linkedin.com/in/alexhenr)
